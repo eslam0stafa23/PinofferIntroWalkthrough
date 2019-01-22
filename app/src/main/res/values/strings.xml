@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Pinoffer Intro Walkthrough</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">التالي</string>
+    <string name="skip">تخطي</string>
+    <string name="start">إنهاء</string>
+
+    <string name="slide_1_title">العروض حسب موقعك</string>
+    <string name="slide_1_desc">إحنا بنتعرف على مكانك وبنجيبلك كل العروض والخصومات اللي جمبك. خصومات حصرية</string>
+
+    <string name="slide_2_title">بنجيب العروض والخصومات منين؟</string>
+    <string name="slide_2_desc">إحنا بنعرف انت مهتم وبتحب ايه وبنعمل Deals مع الاماكن اللي بتحبها ومهتم بيها وبنجبلك خصومات ليك مخصوص</string>
+
+    <string name="slide_3_title">خصومات من 10% إلى 90%</string>
+    <string name="slide_3_desc">بنجيبلك عروض وخصومات بشكل مجاني. وممكن تشترك في خدمة Premium عشان العروض توصلك في SMS</string>
+
+    <string name="slide_4_title">هتستخدمه إزاي؟</string>
+    <string name="slide_4_desc">كل ما بتشوف عروض وتختار انك مهتم هنجيبلك عروض كمان. تقدر تفتح الخريطة علشان تعرف الطريق او تتصل على المكان</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> Pinoffer Intro Walkthrough -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
